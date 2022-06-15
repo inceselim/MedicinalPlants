@@ -1,0 +1,17 @@
+export default {
+  Home:
+    Categories:
+  Food:
+    Medicinal_Plants:
+  Soaps:
+    Soap:
+  Braids:
+    Stones:
+  Cleaning:
+    Tips:
+  tip1:
+    tip2:
+  tip3:
+    tip4:
+
+};

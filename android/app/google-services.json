@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849893134985",
+    "project_id": "medicinalplantsincesoy",
+    "storage_bucket": "medicinalplantsincesoy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849893134985:android:2984fe70d92b862c14ac58",
+        "android_client_info": {
+          "package_name": "com.medicinalplantsincesoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849893134985-6fqhlca6s611pl37r1qjatjjkg2m22o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasxc9XPr_xCVusMnrPerrw2gYTH7ZXYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849893134985-6fqhlca6s611pl37r1qjatjjkg2m22o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849893134985-96k633hbg0nv9ibrdkir91n3pj5n2bfi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.incesoy.medicinalplantsincesoy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

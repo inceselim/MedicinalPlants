@@ -1,0 +1,190 @@
+//Sweden
+export default {
+    Home: "Hem",
+    Detail: "Detalj",
+    Content: "Innehåll",
+
+    Cure: "Bota",
+    Categories: "Kategorier",
+    Category: "Kategori",
+    Food: "Mat",
+    Medicinal_Plants: "Medicinska växter",
+    Soaps: "Tvålar",
+    Soap: "Tvål",
+    Braids: "Flätor",
+    Stones: "Stenar",
+    Cleaning: "Rengöring",
+    Interesting_Info: "Intressant info",
+    Yoga: "Yoga",
+
+    Tips: "Tips",
+    tip1: "Den största tjänsten du kan göra för din hud är att dricka minst 8 glas vatten om dagen. Vatten skyddar kroppens fuktbalans och förhindrar att huden torkar och spricker.",
+    tip2: "Gurka, som innehåller mycket vatten, återfuktar och slappnar av din hud. Du kan försöka bli av med dina svullnader under ögonen effektivt genom att skiva gurkorna du har förvarat i en skål med kallt vatten och sätta dem på ögonen.",
+    tip3: "Varmt vatten gör att de naturliga oljorna som fungerar som en barriär på din hud försvinner. Rengör helst din hud med ljummet vatten.",
+    tip4: "Undvik att skrubba eller gnugga huden för hårt, eftersom det kan irritera huden.",
+    tip5: "Kallt väder och vind gör vår hud färglös, matt och torr.",
+
+    cleaning1_title: "Glasmärken på möbler",
+    cleaning1_content: "Om glasmärkena och vattenfläckarna på ditt soffbord och bord börjar störa dig mer och mer för varje dag, är den här nyheten för dig! Tandkräm är allt du behöver för att få dessa märken att försvinna när du försummar att använda ett glasunderlägg. Applicera tandkräm till det färgade området och fördela det med händerna. Efter att ha väntat i cirka 30 sekunder, torka med en trasa utan att gnugga. Denna metod hjälper till att försvinna märken och fläckar på dina bord och soffbord.",
+    cleaning2_title: "Mattfläck",
+    cleaning2_content: "För mattfläckar, blanda vit vinäger och vatten. Gnid tills fläcken är borta. Torka med en torr handduk.",
+    cleaning3_title: "Gul gardin",
+    cleaning3_content: "Låt oss göra jobbet med att tvätta och stryka gardiner, som är den svåraste och mest besvärliga delen av städningen, lättare. För att dina gardiner ska bli renare och damm bort, gör en förtvätt i ett kort program på 30 grader och lägg till 2-3 sockerbitar eller 1 sockerbit mellan dina gardiner under den andra tvätten. du kan lägga en sked strösocker och en liten mängd bakpulver. Socker hjälper till att förhindra att gardinen mörknar och lyser upp tyllen.",
+    cleaning4_title: "Kaffefläckar i koppen",
+    cleaning4_content: "Det är faktiskt väldigt lätt att bli av med fläckarna som uppstår i keramiska koppar på grund av kaffe och te. Häll bakpulver på en handduk och gnugga insidan av kopparna. Tvätta sedan kopparna under mycket vatten. Du kommer att se Fläckar löses upp och försvinner.",
+    cleaning5_title: "Skinnsoffa",
+    cleaning5_content: "Du kan applicera olivolja eller babyolja på de repade områdena av lädersäten med en mjuk trasa och gnugga dem. Du kan upprepa denna process några gånger med hjälp av bomull. Denna metod är mycket effektiv för att försvinna det dåliga utseendet av repor på sätena.",
+    cleaning6_title: "Aspirator",
+    cleaning6_content: "Du kan också gnugga aspiratorerna genom att dela löken på mitten och hälla lite bakpulver på den. Med den här metoden kan du bli av med de envisa oljorna som samlats i dina aspiratorer.",
+    cleaning7_title: "Gammal pan",
+    cleaning7_content: "Koka ättikan och tvätta din panna, som har blivit oanvändbar, med det vattnet.",
+    cleaning8_title: "kuddar",
+    cleaning8_content: "Blanda 1 kopp tvättpulver, 1 kopp diskmaskinspulver, 1 kopp blekmedel, en halv kopp borax och tillsätt mycket varmt vatten och tvätta.",
+    cleaning9_title: "Repat trä",
+    cleaning9_content: "Blanda ett halvt glas vinäger och ett halvt glas olivolja, doppa en trasa över blandningen och torka av träet. Teckningarna försvinner helt och ytan ser ut som ny.",
+    cleaning10_title: "Täppt handfat",
+    cleaning10_content: "Häll ett halvt glas bakpulver och ett halvt glas vinäger i diskhon och vänta i 15 minuter. Häll sedan det varma vattnet i diskhon. Operationen är klar.",
+
+    Play: "Spela",
+    Pause: "Paus",
+    Share: "Dela med sig",
+    Share_On_Whatsapp: "Dela på Whatsapp",
+    Go_Back: "Gå tillbaka",
+
+    cure1_title: "Körsbärsstjälkkur",
+    cure1_content: "Koka upp vattnet i en gryta. När det börjar koka, lägg på körsbärsstjälk och majstofs och låt det brygga i 10 minuter. Sedan kan du rinna av vattnet och dricka det.",
+    cure1_b1: " • 1 näve körsbärsstjälkar",
+    cure1_b2: " • 1 näve majssilke",
+    cure1_b3: " • 2,5 glas vatten",
+
+    cure2_title: "Recept för grönt botemedel",
+    cure2_content: "Först av allt, efter att ha tvättat alla ingredienser, lägg dem i mixern. Tillsätt vatten och blanda det. Om du inte har problem med magen kan du konsumera kuren på fastande mage.",
+    cure2_b1: " • 1 grönt äpple",
+    cure2_b2: " • 1 knippe persilja",
+    cure2_b3: " • 1 näve spenat",
+    cure2_b4: " • En halv gurka",
+
+    cure3_title: "Yoghurtkur",
+    cure3_content: "Använd pulverformen av alla ingredienser utom yoghurt. Kasta ingredienserna i yoghurten och blanda dem tills de är identiska. Ät denna kur 1 timme innan du går och lägger dig.",
+    cure3_b1: " • En skål med yoghurt",
+    cure3_b2: " • 1 tesked kanel",
+    cure3_b3: " • 1 tesked gurkmeja",
+    cure3_b4: " • 1 tsk ingefära",
+
+    cure4_title: "Ödem Relief Water",
+    cure4_content: "Koka först upp vattnet. Tillsätt sedan de andra ingredienserna i det kokande vattnet och koka i ytterligare 5-6 minuter. Täck sedan över kuren och låt den brygga i 5 minuter. Sila till sist fruktkuren och konsumera den varm.",
+    cure4_b1: "   • En liter vatten",
+    cure4_b2: "   • Körsbärsstam",
+    cure4_b3: "   • Apple",
+    cure4_b4: "   • Citron juice",
+    cure4_b5: "   • Persilja",
+    cure4_b6: "   • Kanel",
+    cure4_b7: "   • Ingefära",
+
+    cure5_title: "Bunnande vatten",
+    cure5_content: "För att applicera kuren behöver du dricka en tesked svartfröolja så fort du vaknar på morgonen. Sedan måste du lägga två matskedar vinäger i ett glas varmt vatten och dricka det. De som är obekväma med smaken kan tillsätta en halv tesked honung om de vill. Kuren som ökar mättnadskänslan, kalorier gör det lättare att kontrollera.",
+
+
+    interesting1_title: "Den första datorn",
+    interesting1_content: "Personen som uppfann datorn är den engelske matematikern Charles Babbage. Charles Babbage producerade och drev den första datorprototypen som en skillnadsmaskin. Det sägs att de första datorerna var kulramen. Men när den anpassades till nutiden, den första datorer tillverkades av Charies Babbage. Datorn utvecklades först av Charles Babbage 1833. Den designades. Den första datorn var en digital dator designad som ENIAC. Denna dator, kallad ENIAC, var en enorm dator som översteg mänsklig storlek. En dator kallad ENIAC användes för att beräkna artillerield. En dator vid namn ENIAC är känd för att ha producerat cirka 30 ton. Denna första dator kostade 500 tusen amerikanska dollar ENIAC-datorn var snabbare och kraftfullare än elektromagnetiskt genererade maskiner. Sedan, 1965, moderna datorer började tillverkas.",
+    interesting2_title: "Häststatyer",
+    interesting2_content: "Häststatyerna i Markuskyrkan identifierar fyra bronsstatyer av hästar från den romerska perioden. Statyerna var ursprungligen en del av en av de fyra hästgeogena vagnarna som användes vid prisutdelningar, känd som quadriga. Statyerna plundrades från Konstantinopel och transporterades till Venedig under det fjärde korståget 1204. Statyerna som Napoleon Bonaparte tog från Venedig under de franska revolutionskrigen 1797 fördes till Paris, men återvände till Venedig efter slutet av Napoleonkrigen 1815. Idag är statyerna inuti basilikan är skyddad. luftföroreningar. Statyerna i basilikan är kopior av originalstatyerna.",
+    interesting3_title: "AntiMatter",
+    interesting3_content: "Antimateria är materiens motsatta tvilling. Den framställdes av Paul Diracs ekvation och dess existens bekräftades av efterföljande observationer. Antimateria, i sin enklaste form, är motsatsen till normal materia. Antimateria förutspåddes först 1928 av brittisk fysiker Paul Dirac, publicerad i tidningen New Scientist Paul Dirac. Paul Dirac kombinerade kvantmekaniken (kvantmekaniken studerar vad som finns inuti atomen) med Einsteins speciella relativitetsteori eller relativitetsteorin (ljus är det snabbaste i universum, enligt den speciella relativitetsteorin). Ekvationen som upptäcktes av Paul Dirac fungerar med både positivt och negativt laddade elektroner. Även om Paul Dirac till en början var tveksam till att dela med sig av sina upptäckter, accepterade han så småningom sina upptäckter och sa att varje partikel i universum har en motsatt tvilling. Den amerikanske fysikern Carl D. Anderson upptäckte positronen 1932. Dirac tilldelades Nobelpriset 1933. Anderson fick Nobelpriset 1936.",
+    interesting4_title: "Mörk materia",
+    interesting4_content: "Begreppet mörk materia föreslogs först av Jan Hendrik Oort 1932 och av den schweiziske astrofysikern Fritz Zwicky från California Institute of Technology 1933. Fritz Zwickys observation och påstående togs inte på allvar i något medium på fyrtio år. Det starkaste beviset för existensen av mörk materia Spiralgalaxtendenser, som är Det var inte förvånande för Vera Rubin, som tidigare hade förkastat sina magister- och doktorsavhandlingar. Årtionden senare accepterar nästan alla astrofysiker idag förekomsten av mörk materia. Observationen i augusti 2006 av kollision av två galaxhopar som inträffade för 150 miljoner år sedan bekräftade förekomsten av mörk materia. Det ger mer konkreta bevis för Det blev ett samspel och sedan närmade de sig centrum. Galaxer och mörk materia samverkade inte och förblev utanför centrum.",
+    interesting5_title: "Upptäckt av atomen",
+    interesting5_content: "Atomen eller öglan är den minsta byggstenen som bär de kemiska och fysikaliska egenskaperna hos all materia i det kända universum. Atom kommer från det grekiska ordet atomos, som betyder odelbar. Den första personen som använde ordet atomus var Demokritos, som levde år 440 f.Kr. introducerade John Dalton det moderna begreppet atom för första gången. Han introducerade det 1803. John Dalton visade att i kemiska reaktioner reagerar materia med hastigheter som bestäms av heltal, och därför påstod han att materia är sammansatt av räknebara men odelbara delar kallade atomer. Han utarbetade också en tabell som visar massorna av atomer. 1869 utvecklade den ryske kemisten Dmitri Mendeleev ett periodiskt system som organiserade de kända grundämnena. JJ Thomson upptäckte elektronen 1897. 1911 introducerade Ernest Rutherford struktur som ligger till grund för dagens atommodell: Atomen, som utgör det mesta av dess massa, består av en kärna och elektroner som kretsar runt den Rutherford en positivt laddad partikel Han kallade r en proton. 1932 upptäckte James Chadwick neutronen (den kallas neutron eftersom den har en elektrisk laddning på 0, det vill säga neutral.) och på detta sätt fick han Nobelpriset i fysik 1935.",
+    interesting6_title: "Upptäckten av Amerika",
+    interesting6_content: "Amerika upptäcktes 1492 av den italienske navigatören Christopher Columbus. Intressant nog trodde Columbus att det var en indisk ö. Senare meddelade Amerigo Vespucci att denna kontinent var den nya världen. 1526 gav han Francisco de Montejo erövringen av Yucatanhalvön. Han fick auktoritet, men hans första försök misslyckades på grund av sjukdom och militärt uppror 1527. Tre år senare försökte han återigen kolonisera flera territorier, men misslyckades och förlorade allt. Eftersom han var för gammal för att kampanja igen skickade han sin son av samma namn på en expedition 1541. Under expeditionen försvann en stor del av mayabefolkningen, som inte var immun mot europeiska sjukdomar, och halvön intogs utan något motstånd.Efter upptäckten av Amerika började européer strömma till denna kontinent. Spanska, portugisiska, franska och brittiska ägde mark här. England. han grundade 13 kolonier här, idag bland dem Boston, New York, Ph. Dessa 13 stater, inklusive Iladelphia och Washington, utgjorde grunden för USA. Att britterna tog mycket höga skatter från kolonierna orsakade obehag och reaktioner i kolonierna. Och slutligen började kampen för självständighet för de 13 brittiska kolonierna i Amerika. Amerikanerna förklarade sin självständighet med den amerikanska självständighetsförklaringen, utfärdad av George Washington den 4 juli 1776.",
+    interesting7_title: "Uppfinnandet av tryckpressen",
+    interesting7_content: "Den första användningen av tryckpressen började i Fjärran Östern. Den första tryckpressen etablerades i Kina 593 e.Kr. med träsnideriteknik, och den första tryckta tidningen trycktes i Peking 700 e.Kr. År 1450, Johannes Gutenberg, tillsammans startade tillsammans med sin partner Fust metallarbete i Mainz, Tyskland.Han hittade tekniken att trycka med bokstäver och applicerade den på tryckeriet.Gutenbergs produktion, särskilt Bibeln, som han tryckte 1455, var framgångsrik på kort tid med dess hög kvalitet och billigt pris, och den nya uppfinningen fick stor spridning över hela världen, med början från Europa.Den låg till grund för moderna tryckmaskiner och den tryckeriindustrin som växte fram i och med den industriella revolutionen och varade fram till slutet av 1900-talet.",
+    interesting8_title: "Uppfinning av glasögon",
+    interesting8_content: "Glasögon kom först in i människors liv 1280. De första glasögonen uppfanns av en italiensk fysiker vid namn Armati. Dessa glasögon bestod av ett par konvexa linser som förstorade föremål och gjorde dem lättare att se... Efter dessa glasögon, Edward Scarlett, fixerad 1730 uppfann stammen. Den första optikerbutiken öppnades i Philadelphia 1783.",
+    interesting9_title: "Klackskor",
+    interesting9_content: "På 200-talet f.Kr. tillverkades plattformssulor i trä och kork för romarna och spelare i en värld av höga klackar. På 1600-talet användes höga klackar i herrskor för att hjälpa till att hålla fötterna i stigbyglarna under ridning. Så de första högklackade skorna gjordes av män. Men den första skon designad för elegans tillverkades 1533. Cetherine de Mecidis, dotter till Mecidis, en av Florens berömda familjer, ska gifta sig med en hertig. En liten flicka, Cetherine, vill ha ett magnifikt bröllop, men vill inte bli förtrollad av ceremonin. Ryktet säger att Leonardo också Han går till Vinci. Leonardo da Vinci hittar lösningen genom att göra höga klackar.",
+
+
+    stone1_title: "Rosenkvarts",
+    stone1_content: "Rosenkvarts tar bort skadorna som orsakas av negativa tankar inom mänsklig psykologi. Det gör personen mycket gladare och gladare. Rosa kvarts, även känd som kärleksstenen bland människorna, är också effektivt för att skingra den negativa energin i huset. ",
+    stone2_title: "Ametiststen",
+    stone2_content: "Ametiststen, som representerar moral och rättvisa i grekisk mytologi, är bra för stress- och ångestsyndrom. En naturlig lösning på hälsoproblem orsakade av strålning, ametiststen är också känd som lila rubin eftersom den liknar rubin.",
+    stone3_title: "Månsten",
+    stone3_content: "Månsten är en av de stenar som borde hållas hemma av människor som har många mardrömmar och vaknar på natten. Månsten skyddar människor från effekterna som orsakar rädsla och tristess. Det gör personen mycket gladare och mer energisk. ",
+    stone4_title: "Turkos sten",
+    stone4_content: "Denna natursten, uppkallad efter sin turkosa färg, tros ge lycka. Precis som rosa kvarts tar turkos sten bort dålig energi och får personen att se mycket mer positivt på saker.",
+    stone5_title: "Lapis Lazuli Stone",
+    stone5_content: "Färgen blå och marinblå, lapis lazuli har använts sedan antikens Egyptens tid. Dessa stenar, som är bra för njur- och skelettsmärtor, hjälper personen att slappna av andligt och bli av med ångest. En av dess viktigaste fördelar är att det stärker benen.",
+
+
+        braid1_title: "Amigurumi docka",
+    braid1_content: "I tillverkningen av vår bebis använde jag virktekniker som frekvent nål, kedjedragning, ökning och minskningsteknik. Du kan börja sticka från den del du vill. Jag stickar vanligtvis huvudet först och fortsätter med de andra delarna. Du kan använd ett garn med annan färg som lokalisering i början av raden så att du inte blir förvirrad i vilken rad du stickar. Antalet repetitioner utanför parentesen i receptet visar hur många gånger vi behöver utföra operationen i parentes. Siffrorna i slutet av raden visar hur många enstaka virkar det kommer att vara totalt vid den tiden. Vi måste göra stoppningen medan vi stickar bitarna. För detta måste vi fylla i dessa rader utan att missa raderna som vi kan fyllas bekvämt medan vi stickar bitarna. När vi fyller bitarna, efter att ha tryckt fibern inåt, ska vi trycka fibern mot kanterna på biten med fingrarna och forma bitarna. Innan vi börjar sticka amigurumi, låt oss se hur man sticker rt. När jag börjar amigurumi börjar jag med att dra två kedjor och fylla i den andra kedjan.",
+    braid1_b1: "2.5 ingen stickning virkning",
+    braid1_b2: "1 nakent garn",
+    braid1_b3: "1 vitt garn",
+    braid1_b4: "1 par 12 mm amigurumi-ögon",
+    braid1_b5: "1 bit vit filt",
+    braid1_b6: "1 svart nylontråd",
+    braid1_b7: "Pärlfiber",
+
+    braid2_title: "Punch Brodery",
+    braid2_content: "",
+
+
+    soap1_title: "Gurka och citron",
+    soap1_content: "Det gör gurkan klar i roboten, och du får citronen i den. Önskar att du har 1 tsk bakpulver till detta. Du börjar med att blöta håret i badrummet. Du sprider det genom att massera från rötterna på ditt håret till topparna. Låt det sitta i några minuter och tvätta sedan av det.",
+    soap2_title: "Närande balsam",
+    soap2_content: "Ingredienser: 1 matsked kokosolja, 1 matsked honung, 1 matsked äppelcidervinäger. Beredning: Blanda alla ingredienser och applicera genom att skaka innan du tar ett bad.",
+    soap3_title: "Mineral balsam",
+    soap3_content: "Ingredienser: 2 matskedar bakpulver, rent dricksvatten eller läsk för att göra en pasta, 2 droppar lavendelolja. Beredning: Blanda alla ingredienser och applicera genom att skaka innan du tar ett bad.",
+    soap4_title: "balsam för matt hår",
+    soap4_content: "Ingredienser: 1 matsked äppelcidervinäger, 1 matsked vatten, 5 droppar rosmarinolja, 5 droppar citronolja. Förberedelse: Blanda ingredienserna och skaka behållaren du lägger i innan du använder den så att oljorna blandas väl. ",
+    soap5_title: "Asksåpa",
+    soap5_content: "Ingredienser: Ren (vit) aska, 30-40 ml vatten, 120 ml olivolja, 1 nypa stensalt. Verktyg och material du behöver: Glasögon som helt kan skydda dina ögon, Handskar, Träskedar, 2 krukor , Formar som du kommer att använda för att forma tvålar. Hur görs det? Även om den här metoden är mycket säkrare än den andra, eftersom du inte kommer att använda kaustiksoda, är det fortfarande användbart att applicera det utomhus och för att skydda dina ögon och händer. Ta rengör träaska och lägg dem i en kastrull. Tillsätt sedan vattnet på den och ta den till spisen och värm blandningen, ta bort den från spisen innan den kokar. Låt den uppvärmda blandningen svalna. Droppa 1 ägg på den kylda blandningen Om hälften av ägget ligger kvar inuti hälften ovanpå har du använt rätt mängd aska. Om ägget är helt nedsänkt i blandningen, tillsätt lite mer aska till blandningen, tvärtom om ägget är helt ovanför blandningen, tillsätt vatten till blandningen och låt ägget stå i mitten. Ta sedan en annan kastrull och häll olivolja i den och värm den tills den når 40°C. Efter att ha värmt upp den uppvärmda oljan en stund, tillsätt lut till den (du kan tillsätta den genom att sila av vattnet). Ta tillbaka grytan till spisen och börja blanda med en träslev på låg värme. Tillsätt under tiden en nypa stensalt och fortsätt blanda. När den här blandningen du lagar på spisen börjar få en trögflytande konsistens som pudding betyder det att den är klar. Överför den färdiga blandningen till tvålformen, låt den stå så här i 1-2 dagar utan att röra på formen och låt tvålen stelna. Ta sedan bort den från formen och låt den torka helt i några månader. Se till att platsen där du väntar är torr och ren. Du kan börja använda din tvål efter 1-2 månader.",
+
+
+
+
+    plant1_title: "Ingefära",
+    plant1_content: "Innehåller antioxidantkomponenter, vitaminer, mineraler och aromatiska eteriska oljor, ingefära är bland de mest använda medicinalväxterna på grund av dess aptitretande, ämnesomsättningsaccelererande och immunförsvarshöjande effekter. Den är också användbar mot matsmältningssjukdomar som illamående, diarré , förstoppning, uppblåsthet, gaser, mag- och magsmärtor. Det stärker immunförsvaret och skyddar kroppen mot förkylningar som influensa och förkylning. Det förhindrar bildandet av cancerceller och förhindrar spridningen av de bildade cellerna.",
+    plant2_title: "Gurkmeja",
+    plant2_content: "Curcumin, den aktiva komponenten i ingefära, förhindrar bildandet av cancerceller och förhindrar spridningen av de bildade cellerna. Förutom matsmältningssjukdomar som halsbränna, magsmärtor, Chrohns sjukdom, förstoppning är det gynnsamt mot gallblåssjukdomar och hög kolesterol Gurkmeja, som utmärker sig med sin effekt på att minska risken för hjärtsjukdomar, är effektiv i förebyggande och behandling av inflammatoriska sjukdomar tack vare dess antioxidantegenskaper. Det förhindrar utvecklingen av sjukdomar som depression, demens, kronisk trötthet och Alzheimers . Det förkortar också läkningsprocessen för infektioner som sår och brännskador.",
+    plant3_title: "Lind",
+    plant3_content: "Te tillagat med blommor och blad blandas med citron, honung eller andra örter och konsumeras varmt. Linden, som innehåller vitaminer, mineraler eller aromatiska eteriska oljor, har antioxidantegenskaper. Växten, som påskyndar elimineringen av gifter från kroppen och stärker immunförsvaret, är en traditionell behandlingsmetod för förkylningar, faryngit och hosta. Förutom att förhindra halsirritationer har den antiinflammatoriska, urindrivande och smärtlindrande egenskaper.",
+    plant4_title: "Salvia",
+    plant4_content: "Växten, som har positiva effekter på matsmältningssystemet, är effektiv för att förebygga matsmältningsbesvär. Linden, som är bra vid menstruationsrubbningar och mensvärk, spelar en aktiv roll i behandlingen av hudsvampar i kroppen med sin svampdödande effekt. Den stöder avlägsnandet av gifter från kroppen och lindrar huvudvärk som utvecklas på grund av nerver. Det är effektivt vid behandling av förkylningar tack vare dess slemlösande, halsfluss och hostdämpande effekter. Det stöder behandlingen av munsår och har även en förebyggande effekt på urinvägsinfektioner, gallblåsa och leversjukdomar.",
+    plant5_title: "Svartkummin",
+    plant5_content: "Svartkummin, som har ett högt antioxidantinnehåll, är mycket effektivt vid behandling av vissa cancersjukdomar, lever- och njursjukdomar, reumatiska sjukdomar, högt blodtryck och diabetes. Växten, som också används i läkemedelsproduktion, stödjer behandlingen av allergiska rinit. Den lindrar allergisymptom som svullnad av näsgångarna, nysningar, rinnande näsa och nästäppa. Den spelar en stödjande roll vid behandling av astma, bronkit, epilepsi och Alzheimers sjukdom.",
+
+
+
+    food1_title: "İnegöl Köfte",
+    food1_content: "Ingredienser: 800 gram nötfärs, 200 gram malet lamm, 2 lökar, 10 gram karbonat, 10 gram salt. Efter att ha tillsatt 2 rivna lökar, 1 tesked vardera salt och bakpulver till köttfärsen, knåda väl i 10-15 minuter tills blandningen blir en pasta.",
+    food2_title: "Kärnmjölkssoppa",
+    food2_content: "Ingredienser: 1 glas vete, tillräckligt med vatten för att täcka, 1 glas kikärter, 3 glas yoghurt, 1 tsk salt, 1 tsk torkad mynta, 4 glas vatten. Beredning: Låt oss lägga till ett glas kokta kikärter nära kl. tillagningen av vetet och koka tillsammans i 5 minuter till. Efter 5 minuter, ta bort det från spisen och låt det svalna. Tillsätt 3 glas yoghurt, 1 tsk salt, 1 tsk mynta och 4 glas kall vatten till mixerskålen och blanda. Låt oss lägga till vetet och kikärtorna som vi kokade på det och blanda det, du kan justera konsistensen efter önskemål.",
+    food3_title: "Piti deg recept",
+    food3_content: "Ingredienser: 2 glas varmt vatten, 1 msk strösocker, en halv förpackning jäst, 5 glas mjöl, 1 tsk salt, 2 glas solrosolja. Beredning: Lös upp 1 msk strösocker och ett halvt paket med färsk jäst i varmt vatten Låt den vila i 10 minuter efter blandning. Tillsätt 3 koppar mjöl och salt till den vilade blandningen genom att blanda och fortsätt blanda. Knåda degen i 5-10 minuter. Täck degen och låt den jäsa i en timme i rumstemperatur. Vi steker den på medelvärme.",
+    food4_title: "Corn dog",
+    food4_content: "Ingredienser: 130 g majsmjöl, 130 g mjöl, kvart tesked salt, kvart tesked svartpeppar, 20 g vitsocker, 4 teskedar bakpulver, 1 ägg, 240 g mjölk, För stekning:, , 1 liter vegetabilisk olja, 2 paket korv , 16 träspett. Hur man gör en majshund? I en medelstor skål, kombinera majsmjöl, mjöl, salt, peppar, socker och bakpulver. Blanda med ägg och mjölk. Värm oljan i en djup kastrull. Sätt i träet spett i korvarna. Doppa korvarna i mjölblandningen tills de är väl belagda. Stek i het olja tills de är gyllenbruna. Lägg på handdukspappret. Servera medan de är varma. Njut av din måltid.",
+    food5_title: "Grillad ost",
+    food5_content: "Ingredienser: 2 skivor rostat bröd, 2 skivor cheedarost, 1 tsk smör. Hur man gör grillad ost Ta först en skiva bröd på bänken och lägg ostarna inuti. Täck det andra rostade brödet över ostarna. Skär brödet diagonalt med en kniv. Bred ut 1 tsk smör på båda sidor av triangeltoasten. Ta upp non-stick pannan på spisen och värm den. Grädda det rostade brödet sida vid sida tills det är gyllenbrunt. När osten i brödet börjar smälta, den grillade osten är klar.",
+
+
+
+    yoga1_title: "Barnställning",
+    yoga1_content: "Barnställning",
+    yoga2_title: "Bro",
+    yoga2_content: "Bro",
+    yoga3_title: "Luta dig framåt",
+    yoga3_content: "Luta dig framåt",
+    yoga4_title: "kobra pose",
+    yoga4_content: "kobra pose",
+    yoga5_title: "stolsställning",
+    yoga5_content: "stolsställning",
+
+
+
+
+
+
+};
